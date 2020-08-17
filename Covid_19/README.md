@@ -1,6 +1,6 @@
 # Covid19
 
-This is a CLI Data Gem which offers Covid-19 confirmed case rates for the states of NY, Washington, and California. The CLI further delves into counties for the particular state. This is a CLI Data Gem for Flatiron School. 
+This is a CLI Data Gem which offers Covid-19 confirmed case rates for the states of NY, Washington, and California. The CLI further delves into counties for the particular state. This is a CLI Data Gem for Flatiron School. ##GITCOMMIT
 
 ## Installation
 
